@@ -3,7 +3,6 @@
     "configWarningReuseIssue": false,
     "dependencyDashboard": true,
     "dependencyDashboardTitle": "Renovate: Upgrade Dependencies",
-    "draftPR": true,
     "enabledManagers": ["helm-values"],
     "ignorePaths": ["chart/charts/**", "chart/examples/**", "chart/scripts/**"],
     "packageRules": [
