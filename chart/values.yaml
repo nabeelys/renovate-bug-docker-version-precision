@@ -5,10 +5,9 @@
 replicaCount: 1
 
 image:
-  repository: mjnagel/renovate-testing
-  pullPolicy: IfNotPresent
-  # Overrides the image tag whose default is the chart appVersion.
-  tag: "12.9"
+  registry: docker.io
+  repository: mjnagel/postgresql12
+  tag: 12.9
 
 imagePullSecrets: []
 nameOverride: ""
