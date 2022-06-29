@@ -7,8 +7,13 @@ replicaCount: 1
 image:
   registry: docker.io
   repository: mjnagel/postgresql12
-  tag: '12.9'
+  tag: 12.9
 
+image1:
+  registry: docker.io
+  repository: mjnagel/postgresql-distribution
+  tag: 9.1
+  
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
