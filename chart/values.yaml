@@ -6,8 +6,8 @@ replicaCount: 1
 
 image:
   registry: docker.io
-  repository: mjnagel/postgresql12
-  tag: 12.5-beta
+  repository: bitnami/postgresql
+  tag: 11.7.0-debian-10-r9
 
 imagePullSecrets: []
 nameOverride: ""
