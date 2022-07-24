@@ -3,15 +3,11 @@
 # Declare variables to be passed into your templates.
 
 replicaCount: 1
+
 image:
   registry: docker.io
   repository: bitnami/postgresql
   tag: 11.7.0-debian-10-r9
-  
-image:
-  registry: docker.io
-  repository: mjnagel/postgresql12
-  tag: "12.9"
 
 imagePullSecrets: []
 nameOverride: ""
