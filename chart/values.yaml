@@ -12,7 +12,7 @@ firstimage:
 secondimage:
   registry: docker.io
   repository: nabeels/alpine
-  tag: 3.15.5-orig
+  tag: 3.15.5-r1
 
 imagePullSecrets: []
 nameOverride: ""
