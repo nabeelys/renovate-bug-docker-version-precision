@@ -7,7 +7,7 @@ replicaCount: 1
 firstimage:
   registry: registry.hub.docker.com
   repository: nabeels/alpine
-  tag: 3.15.5-orig
+  tag: 3.15.5-r1
  
 secondimage:
   registry: docker.io
