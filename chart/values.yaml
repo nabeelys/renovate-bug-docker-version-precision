@@ -11,8 +11,8 @@ firstimage:
  
 secondimage:
   registry: docker.io
-  repository: mjnagel/postgresql12
-  tag: 12.9
+  repository: nabeels/alpine
+  tag: 3.15.5-orig
 
 imagePullSecrets: []
 nameOverride: ""
