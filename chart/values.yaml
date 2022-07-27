@@ -5,12 +5,12 @@
 replicaCount: 1
 
 firstimage:
-  registry: registry.hub.docker.com
+  registry: docker.io
   repository: nabeels/alpine
   tag: 3.15-r1
  
 secondimage:
-  registry: registry.hub.docker.com
+  registry: docker.io
   repository: nabeels/alpine
   tag: 3.15.5-r1
 
