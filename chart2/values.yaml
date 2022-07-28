@@ -1,0 +1,15 @@
+# Default values for renovate-testing.
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+replicaCount: 1
+
+firstimage:
+  registry: docker.io
+  repository: nabeels/alp-v2
+  tag: v3.15
+ 
+secondimage:
+  registry: docker.io
+  repository: nabeels/alp-v2
+  tag: v3.15.5-rc1
