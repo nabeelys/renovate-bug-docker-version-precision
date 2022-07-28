@@ -3,7 +3,7 @@
 	"packageRules": [
 		{
 			"matchPackageNames": ["*nabeels*"],
-			"versioning": "semver-coerced"
+			"versioning": "semver"
 		}
 	]
 }
