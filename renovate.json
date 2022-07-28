@@ -6,7 +6,7 @@
 				"docker.io/nabeels/alp-v2",
 				"docker.io/nabeels/alp-v3"
 			],
-			"versioning": "semver"
+			"versioning": "semver-coerced"
 		}
 	]
 }
