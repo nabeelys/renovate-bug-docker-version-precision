@@ -7,7 +7,7 @@ replicaCount: 1
 firstimage:
   registry: docker.io
   repository: nabeels/alp-v3
-  tag: v3.15
+  tag: v3.20
  
 secondimage:
   registry: docker.io
