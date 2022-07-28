@@ -4,8 +4,6 @@
 	],
 	"packageRules": [
 		{
-			"matchDatasources": [ "docker" ],
-			"matchPackageNames": [ "*" ],
 			"versioning": "semver"
 		}
 	]
