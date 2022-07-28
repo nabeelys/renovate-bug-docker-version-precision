@@ -4,7 +4,7 @@
 	],
 	"packageRules": [
 		{
-			"matchPackageNames": ["*nabeels*"],
+			"matchPackageNames": ["*nabeels*","docker.io/nabeels/alpine"],
 			"versioning": "semver"
 		}
 	]
