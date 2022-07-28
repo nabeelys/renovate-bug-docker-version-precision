@@ -2,8 +2,11 @@
 	"dependencyDashboard": true,
 	"packageRules": [
 		{
-			"matchPackageNames": ["*nabeels*"],
-			"versioning": "semver"
+			"matchPackageNames": [
+				"docker.io/nabeels/alp-v2",
+				"docker.io/nabeels/alp-v3"
+			],
+			"versioning": "semver-coerced"
 		}
 	]
 }
