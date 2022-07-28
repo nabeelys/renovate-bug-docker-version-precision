@@ -4,7 +4,7 @@
 	],
 	"packageRules": [
 		{
-			"matchPackageNames": ["*nabeels*","docker.io/nabeels/alp-v2"],
+			"matchPackageNames": ["*nabeels*"],
 			"versioning": "semver-coerced"
 		}
 	]
